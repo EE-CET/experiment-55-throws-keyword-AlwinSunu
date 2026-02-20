@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.io.IOException;
 
-public class ThrowIOException {
+public class ThrowsDemo {
 
     static void check(int n) throws IOException {
         if (n < 0)
